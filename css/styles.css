@@ -91,6 +91,7 @@ body {
 }
 .hero-btn {
   color: #fff;
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -187,6 +188,7 @@ body {
   list-style: none;
 }
 .filter-btn {
+  font-family: inherit;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
